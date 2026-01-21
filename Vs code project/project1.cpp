@@ -8,8 +8,6 @@ class Person {
 public:
     string name;
     string id;
-    
-
 
     virtual void input() {
         cin.ignore();
