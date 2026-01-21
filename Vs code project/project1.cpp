@@ -9,6 +9,8 @@ class Person {
 public:
     string name;
     string id;
+    // int name;
+    //string uninname;
 
     virtual void input() {
         cin.ignore();
