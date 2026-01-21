@@ -3,7 +3,7 @@
 #include<fstream>
 using namespace std;
 
-
+// yhn  pa ek issue   ha esko tk kro 
 class Person {
 public:
     string name;
