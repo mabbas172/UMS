@@ -4,6 +4,7 @@
 using namespace std;
 
 // yhn  pa ek issue   ha esko tk kro 
+// tk ha mana updat kr dea ha function 
 class Person {
 public:
     string name;
